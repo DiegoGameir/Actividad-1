@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Diego\Documents\Repo\Actividad 1\Actividad 1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Diego\Documents\Repo\Actividad 1\Actividad 1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Diego\Documents\Repo\Actividad 1\Actividad 1\Debug\Actividad 1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Actividad 1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Actividad 1.map</FILE>
+  <FILE>Actividad 1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <leer_entradas><FILE>C:\Users\Diego\Documents\Repo\Actividad 1\Actividad 1\main.asm</FILE><LINE>24</LINE></leer_entradas>
+  <freq_100k><FILE>C:\Users\Diego\Documents\Repo\Actividad 1\Actividad 1\main.asm</FILE><LINE>44</LINE></freq_100k>
+  <freq_500k><FILE>C:\Users\Diego\Documents\Repo\Actividad 1\Actividad 1\main.asm</FILE><LINE>67</LINE></freq_500k>
+  <freq_1mhz><FILE>C:\Users\Diego\Documents\Repo\Actividad 1\Actividad 1\main.asm</FILE><LINE>81</LINE></freq_1mhz>
+  <freq_2mhz><FILE>C:\Users\Diego\Documents\Repo\Actividad 1\Actividad 1\main.asm</FILE><LINE>94</LINE></freq_2mhz>
+  <d100_h><FILE>C:\Users\Diego\Documents\Repo\Actividad 1\Actividad 1\main.asm</FILE><LINE>48</LINE></d100_h>
+  <d100_l><FILE>C:\Users\Diego\Documents\Repo\Actividad 1\Actividad 1\main.asm</FILE><LINE>54</LINE></d100_l>
+ </LABELS>
+</ASSEMBLER_INFO>
